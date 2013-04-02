@@ -7,7 +7,7 @@
         "ar-drone": "0.0.5",
         "faye": "0.8.x",
         "socket.io": "0.9.13",
-        "dronestream": "https://github.com/piscis/node-dronestream.git",
+        "dronestream": "git://github.com/piscis/node-dronestream.git#71e329fd66c870cdf160e89a06aeedc3fa1bc570",
         "nconf": "0.6.7",
         "winston": "0.6.2"
     },
